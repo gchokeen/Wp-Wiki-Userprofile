@@ -3,8 +3,8 @@ Contributors: gchokeen
 Donate link: http://code-cocktail.in/donate-me/
 Tags: widget, wiki
 Requires at least: 2.8
-Tested up to: 3.4.1
-Stable tag: 1.1
+Tested up to: 4.0
+Stable tag: 1.2
 License: GPLv2
 
 
@@ -45,10 +45,10 @@ e.g.
 
 = How to enable CURL =
 
-checkout this [link](http://stackoverflow.com/questions/1347146/how-to-enable-curl-in-php). I belive this will answer your question.
+checkout this [link](http://stackoverflow.com/questions/1347146/how-to-enable-curl-in-php). I believe this will answer your question.
  
 
-= Can i get multiple user information ? =
+= Can I get multiple user information ? =
 
 Yes, We can do this. add | seperated username in the plugin settings page.e.g user1|user2  
 
@@ -57,6 +57,9 @@ Yes, We can do this. add | seperated username in the plugin settings page.e.g us
 1. screenshot-1.png 
 
 == Changelog ==
+
+= 1.2 =
+* waringing fix.
 
 = 1.1 =
 * Shortcode support added.
